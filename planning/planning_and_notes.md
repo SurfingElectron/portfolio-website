@@ -6,6 +6,9 @@ A portfolio website which will interest/engage a potential employer.
 ## Reference Docs
 - Mantine: https://mantine.dev/
 
+## Useful Resources
+- Readme framework generator: https://readme.so/editor
+
 ### Step 1: Research & Inspiration
 Design considerations:
     - Clean: drive viewers toward content, don't distract. Remember it's also an example of your work!
